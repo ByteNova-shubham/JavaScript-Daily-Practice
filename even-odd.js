@@ -1,3 +1,3 @@
-let n = 10;
+let n = 12;
 
 console.log(n % 2 === 0);
